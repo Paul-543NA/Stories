@@ -6,6 +6,9 @@ _This post gives an overview of_ the _paper "Assuring the safety of AI-based cli
 
 ![Oral presentation of the paper at the UK Future of Health Conference, York, 2021](https://www.youtube.com/watch?v=hqGMOOOh-zU&t=1057s&ab_channel=AssuringAutonomyInternationalProgramme)
 
+[![Watch the video](https://img.youtube.com/vi/hqGMOOOh-zU/0.jpg)](https://www.youtube.com/watch?v=hqGMOOOh-zU)
+
+
 AI has shown many promising results in medical applications in the last decade. While imaging-based technologies slowly make their way to the bedside, there remain challenges for AI-powered clinical decision support systems as shown in a [recent review](https://link.springer.com/article/10.1007/s00134-021-06446-7).
 
 One of the barriers in this sector is concerns for patient safety, particularly important in high-stakes contexts. It appears naturally that these are central questions in the context my PhD focuses on; clinical decision support in intensive care.
