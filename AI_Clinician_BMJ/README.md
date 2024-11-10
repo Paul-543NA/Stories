@@ -1,12 +1,12 @@
 # Making AI safer with Human Knowledge
 
+
+🎥 Watch a [YouTube video presenting the paper](https://www.youtube.com/watch?v=hqGMOOOh-zU).
+
+
 ![Publication in BMJ Health and Care Informatics](./visuals/paper_head.png)
 
 _This post gives an overview of_ the _paper "Assuring the safety of AI-based clinical decision support systems: a case study of the AI Clinician for sepsis treatment" published in BMJ Health and Care Informatics in 2022, see the_ [_original paper here_](https://informatics.bmj.com/content/bmjhci/29/1/e100549.full.pdf)_._
-
-![Oral presentation of the paper at the UK Future of Health Conference, York, 2021](https://www.youtube.com/watch?v=hqGMOOOh-zU&t=1057s&ab_channel=AssuringAutonomyInternationalProgramme)
-
-[![Watch the video](https://img.youtube.com/vi/hqGMOOOh-zU/0.jpg)](https://www.youtube.com/watch?v=hqGMOOOh-zU)
 
 
 AI has shown many promising results in medical applications in the last decade. While imaging-based technologies slowly make their way to the bedside, there remain challenges for AI-powered clinical decision support systems as shown in a [recent review](https://link.springer.com/article/10.1007/s00134-021-06446-7).
