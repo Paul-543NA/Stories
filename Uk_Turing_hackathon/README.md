@@ -1,5 +1,5 @@
 
-# Organising a national collaborative hackathon
+# Organising a national collaborative ML research hackathon
 
 Hey there! This post tells how we organised a collaborative hackathon to tighten a UK AI community and facilitate collaborations.
 
@@ -14,7 +14,7 @@ We had a great time there meeting like-minded scientists who were pushing AI sta
 
 As the day went on, we realised that the research landscape on AI in this community was really dense and, while the Turing AI fellows (often postdocs or senior academics) knew about each other’s research, PhDs did not know as much about the work conducted elsewhere. This was quite a shame given how geographically close we were from one another (the UK is not this big). Because of that, we were certainly missing out on great collaboration opportunities that could lead to top research outcomes.
 
-At the lunch break, having made this observation, a few of us decided that tightening the community would be great, and we started thinking about a hackathon to do so.
+At the lunch break, having made this observation, a few of us decided that tightening the community would be great, and we started thinking about a hackathon to do so. 
 
 With the support of Neil Lawrence and the Alan Turing Institute, this idea came to life and a few weeks later we had our first preparation meeting.
 
